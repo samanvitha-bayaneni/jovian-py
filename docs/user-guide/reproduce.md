@@ -13,7 +13,7 @@ An uploaded notebook on <a href="https://jovian.ai?utm_source=docs" target=_blan
 2. Click on the `Clone` button, to copy the notebook's clone command to the clipboard.
 3. Paste the command in the terminal, in the directory where you want to clone the notebook project and then run the command.
 
-<img src="https://i.imgur.com/GPpjea5.gif" class="screenshot" alt="jovian notebook clone button" >
+<img src="https://i.imgur.com/RsKPXb7.gif" class="screenshot2" alt="jovian notebook download button" >
 
 The copied command will be of the the following format
 
